@@ -1,6 +1,13 @@
 # Eric Chen's CSE 110 Info Page
 ## **About me**
 My name is Eric and I am second-year Data Science major. Even though my major does not require CSE 110, I want to take this class to gain experience working with a team on a large (at least large for me) project. 
+## **My Experience**
+I am not a complete beginner to Software Engineering, but I do not think I have directly *done* Software Engineering (although my understanding of Software Engineering will probably change after this). Since I am Data Science major, I have been so used to importing packages like
+```
+import pandas as pd
+import numpy as np
+```
+I have done analyses on different datasets using these. However, I do not know much about web development and using different scripting languages, which I am excited to learn about this quarter!
 ## **Interests**
 ##### ***Food***
 ![Dim Sum](https://radiomilwaukee-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2017/01/27085257/dimsum.jpg) \
@@ -18,3 +25,16 @@ However, I am more of a song person than a specific group's *stan*, meaning that
 > "Blackpink in your area!"
 
 come out of nowhere. 
+
+
+## **To-Do** ##
+- [x] Pictures
+- [x] Headings
+- [x] Styling Text
+- [x] Quoting Text
+- [x] Quoting Code
+- [ ] External Links
+- [ ] Section Links
+- [ ] Relative Links
+- [x] Ordered and Unordered Lists
+- [x] Task Lists
