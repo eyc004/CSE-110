@@ -17,7 +17,7 @@ A few of my favorite foods are:
 - Instant Noodles
 - Sundubu-jjigae
 ##### ***K-Pop***
-![Dim Sum](/BTS%20Logo.png)\
+![BTS Logo](/BTS%20Logo.png)\
 Link to picture in my repo: https://github.com/eyc004/CSE-110/blob/add-favorite-language/BTS%20Logo.png\
 Unlike food, K-Pop is something I got into relatively recently in 2020. I will admit BTS' "Dynamite" was what brought me into K-Pop. They are still my favorite K-Pop group, but my current top 3 are:
 1. BTS
