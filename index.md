@@ -18,7 +18,7 @@ A few of my favorite foods are:
 - Sundubu-jjigae
 ##### ***K-Pop***
 ![BTS Logo](/BTS%20Logo.png)\
-Link to picture in my repo: https://github.com/eyc004/CSE-110/blob/add-favorite-language/BTS%20Logo.png\
+Link to picture in my repo: [BTS Logo](https://github.com/eyc004/CSE-110/blob/add-favorite-language/BTS%20Logo.png)\
 Unlike food, K-Pop is something I got into relatively recently in 2020. I will admit BTS' "Dynamite" was what brought me into K-Pop. They are still my favorite K-Pop group, but my current top 3 are:
 1. BTS
 2. ENHYPEN
@@ -26,7 +26,7 @@ Unlike food, K-Pop is something I got into relatively recently in 2020. I will a
 However, I am more of a song person than a specific group's *stan*, meaning that I mostly listen to the songs that I like from different groups rather than listen to the entire discography of one group. My playlist might first start off with ASTRO and then the lyrics
 > "Blackpink in your area!"
 
-come out of nowhere. The playlists I listened to a lot this summer were https://www.youtube.com/watch?v=cdCp2i7_0Cc and https://www.youtube.com/watch?v=3E0bOI-ecXY. 
+come out of nowhere. The playlists I listened to a lot this summer were [Summer 2022 Playlist](https://www.youtube.com/watch?v=cdCp2i7_0Cc) and [Relaxing Kpop](https://www.youtube.com/watch?v=3E0bOI-ecXY). 
 
 
 ## **To-Do** ##
