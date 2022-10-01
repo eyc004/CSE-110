@@ -36,7 +36,7 @@ come out of nowhere. The playlists I listened to a lot this summer were https://
 - [x] Quoting Text
 - [x] Quoting Code
 - [x] External Links
-- [ ] Section Links
+- [x] Section Links
 - [x] Relative Links
 - [x] Ordered and Unordered Lists
 - [x] Task Lists
