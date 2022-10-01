@@ -1,6 +1,6 @@
 # Eric Chen's CSE 110 Info Page
 ## **About me**
-My name is Eric and I am second-year Data Science major. Even though my major does not require CSE 110, I want to take this class to gain experience working with a team on a large (at least large for me) project. 
+My name is TEST Eric and I am second-year Data Science major. Even though my major does not require CSE 110, I want to take this class to gain experience working with a team on a large (at least large for me) project. 
 ## **My Experience**
 I am not a complete beginner to Software Engineering, but I do not think I have directly *done* Software Engineering (although my understanding of Software Engineering will probably change after this). Since I am Data Science major, I have been so used to importing packages like
 ```
