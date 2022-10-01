@@ -1,6 +1,6 @@
 # Eric Chen's CSE 110 Info Page
 ## **About me**
-My name is TEST Eric and I am second-year Data Science major. Even though my major does not require CSE 110, I want to take this class to gain experience working with a team on a large (at least large for me) project. 
+My name is Eric and I am second-year Data Science major. Even though my major does not require CSE 110, I want to take this class to gain experience working with a team on a large (at least large for me) project. 
 ## **My Experience**
 I am not a complete beginner to Software Engineering, but I do not think I have directly *done* Software Engineering (although my understanding of Software Engineering will probably change after this). Since I am Data Science major, I have been so used to importing packages like
 ```
@@ -17,8 +17,8 @@ A few of my favorite foods are:
 - Instant Noodles
 - Sundubu-jjigae
 ##### ***K-Pop***
-![BTS Logo](/BTS%20Logo.png)\
-Link to picture in my repo: [BTS Logo](https://github.com/eyc004/CSE-110/blob/add-favorite-language/BTS%20Logo.png)\
+![Blackpink Logo](\Blackpink%20Logo.jpg)\
+Link to picture in my repo: [Blackpink Logo](https://github.com/eyc004/CSE-110/blob/add-favorite-language/Blackpink%20Logo.jpg)\
 Unlike food, K-Pop is something I got into relatively recently in 2020. I will admit BTS' "Dynamite" was what brought me into K-Pop. They are still my favorite K-Pop group, but my current top 3 are:
 1. BTS
 2. ENHYPEN
